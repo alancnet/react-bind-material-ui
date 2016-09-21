@@ -27,5 +27,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-tap-event-plugin": "^1.0.0"
+  },
+  "dependencies": {
+    "react-bind": "^0.0.2"
   }
 }
