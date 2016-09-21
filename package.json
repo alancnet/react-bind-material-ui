@@ -1,0 +1,31 @@
+{
+  "name": "react-bind-material-ui",
+  "version": "0.1.0",
+  "description": "material-ui with 2-way binding",
+  "main": "react-bind-material-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Colon",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancnet/react-bind-material-ui.git"
+  },
+  "keywords": [
+    "material",
+    "ui",
+    "react",
+    "bind"
+  ],
+  "bugs": {
+    "url": "https://github.com/alancnet/react-bind-material-ui/issues"
+  },
+  "homepage": "https://github.com/alancnet/react-bind-material-ui#readme",
+  "peerDependencies": {
+    "material-ui": "^0.15.4",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-tap-event-plugin": "^1.0.0"
+  }
+}
